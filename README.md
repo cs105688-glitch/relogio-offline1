@@ -51,3 +51,13 @@ No celular, abra o arquivo no navegador e use a opção **“Adicionar à tela i
 4. Gere e instale o APK
 
 ## Estrutura do projeto
+## Licença
+
+Este projeto está sob a licença **MIT**.  
+Você pode usar, copiar, modificar e distribuir livremente.
+
+Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+## Contribuição
+
+Sugestões e melhorias são bem-vindas via Issues ou Pull Requests.
