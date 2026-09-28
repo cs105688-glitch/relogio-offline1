@@ -23,27 +23,27 @@ Aplicativo de relógio completo, leve e 100% offline.
 
 ## Princípios
 
-| Item              | Status                          |
-|-------------------|---------------------------------|
-| Conexão com internet | Nenhuma                      |
-| Anúncios          | Nenhum                          |
-| Rastreadores      | Nenhum                          |
-| Código aberto     | Sim (MIT)                       |
-| Dependências externas | Nenhuma                    |
+| Item                    | Status     |
+|-------------------------|------------|
+| Conexão com internet    | Nenhuma    |
+| Anúncios                | Nenhum     |
+| Rastreadores            | Nenhum     |
+| Código aberto           | Sim (MIT)  |
+| Dependências externas   | Nenhuma    |
 
 O arquivo HTML é **autocontido**. Não há CDN, fontes externas, analytics nem qualquer chamada de rede.
 
 ## Como usar
 
 ### No navegador
-Abra o arquivo `relogio.html` em qualquer navegador moderno (Chrome, Firefox, Safari, Edge).
+Abra o arquivo `relogio-2.html` em qualquer navegador moderno (Chrome, Firefox, Safari, Edge).
 
 ### Como PWA / atalho
 No celular, abra o arquivo no navegador e use a opção **“Adicionar à tela inicial”**.
 
 ### Gerar APK (Android)
 1. Use um construtor de HTML → APK (ex.: HTML to APK, WebIntoApp, AppGeyser, Website 2 APK Builder)
-2. Envie o arquivo `relogio.html`
+2. Envie o arquivo `relogio-2.html`
 3. Configure:
    - Nome: **Relógio**
    - Orientação: Retrato
@@ -51,20 +51,3 @@ No celular, abra o arquivo no navegador e use a opção **“Adicionar à tela i
 4. Gere e instale o APK
 
 ## Estrutura do projeto
-
-```
-├── relogio.html    # Aplicativo completo (HTML + CSS + JS)
-├── LICENSE         # Licença MIT
-└── README.md       # Este arquivo
-```
-
-## Licença
-
-Este projeto está sob a licença **MIT**.  
-Você pode usar, copiar, modificar e distribuir livremente.
-
-Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-## Contribuição
-
-Sugestões e melhorias são bem-vindas via Issues ou Pull Requests.
